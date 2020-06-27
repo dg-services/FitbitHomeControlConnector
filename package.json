@@ -1,0 +1,31 @@
+{
+  "fitbit": {
+    "appUUID": "bacb2c8d-2c4b-455f-ba9d-391c9e084617",
+    "appType": "app",
+    "appDisplayName": "HomeControl",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "HomeControl"
+      },
+      "de": {
+        "name": "HomeControl"
+      }
+    },
+    "defaultLanguage": "de-DE"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

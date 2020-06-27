@@ -1,0 +1,19 @@
+<svg>
+  <svg class="background">
+    <image href="images/Hintergrund.jpg" />
+    <text id="myLabel" />
+  </svg>
+  <svg y="10" height="10">
+    <text id="pumpStatus">Schalte Pumpe:</text>
+  </svg>
+  <svg y="40" height="70">
+    <!-- toggle button OFF -->
+    <use id="btn-off" href="#square-button-toggle" fill="fb-red" value="1">
+      <set href="#text"  attributeName="text-buffer" to="Aus" />
+    </use>
+    <!-- toggle button ON -->
+    <use id="btn-on" href="#square-button-toggle"  x="50%" fill="fb-green">
+      <set href="#text"  attributeName="text-buffer" to="An" />
+    </use>
+  </svg>
+</svg>
