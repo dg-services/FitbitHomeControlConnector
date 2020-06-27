@@ -1,4 +1,6 @@
-# Want to use your <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg" width=50" /> smart watch to control your smart home?
+# Want to use your <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg" width="50" alt"fitbit" /> smart watch to control your smart home?
+
+
 
 Here is a sample how I integrated my smart watch via a webservice
 
