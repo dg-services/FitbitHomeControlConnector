@@ -4,4 +4,4 @@ Here is a sample how I integrated my smart watch via a webservice
 
 # HowTo
 
-* Get a account on <url src="https://studio.fitbit.com/">Fitbit SKD</url>
+* Get a account on <a src="https://studio.fitbit.com/">Fitbit SKD</a>
